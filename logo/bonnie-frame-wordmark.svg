@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Bonnie & Frame">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400&amp;display=swap');
+      .word { font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif; font-weight: 400; fill: #241812; }
+      .amp  { font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif; font-style: italic; font-weight: 400; fill: #7A5E47; }
+    </style>
+  </defs>
+  <text x="400" y="108" text-anchor="middle" class="word" font-size="76" letter-spacing="1">Bonnie <tspan class="amp" font-size="92">&amp;</tspan> Frame</text>
+</svg>
