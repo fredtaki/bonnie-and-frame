@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Bonnie & Frame">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&amp;family=Playfair+Display:ital,wght@0,400;1,400&amp;display=swap');
+      .word { font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif; font-weight: 400; fill: #241812; }
+      .amp  { font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif; font-style: italic; font-weight: 400; fill: #7A5E47; }
+      .tag  { font-family: 'Inter', system-ui, sans-serif; font-weight: 500; letter-spacing: 5px; fill: #A48A6E; }
+    </style>
+  </defs>
+  <text x="180" y="125" text-anchor="middle" class="word" font-size="64" letter-spacing="0.5">Bonnie</text>
+  <text x="180" y="200" text-anchor="middle" class="amp" font-size="80">&amp;</text>
+  <text x="180" y="270" text-anchor="middle" class="word" font-size="64" letter-spacing="0.5">Frame</text>
+  <line x1="120" y1="305" x2="240" y2="305" stroke="#A48A6E" stroke-width="0.5"/>
+  <text x="180" y="328" text-anchor="middle" class="tag" font-size="10">DUBAI</text>
+</svg>
