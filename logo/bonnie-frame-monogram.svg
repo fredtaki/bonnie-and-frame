@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" role="img" aria-label="B&F monogram">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400&amp;display=swap');
+      .word { font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif; font-weight: 400; fill: #241812; }
+      .amp  { font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif; font-style: italic; font-weight: 400; fill: #7A5E47; }
+    </style>
+  </defs>
+  <rect x="6" y="6" width="188" height="188" fill="none" stroke="#241812" stroke-width="0.6"/>
+  <text x="100" y="128" text-anchor="middle" class="word" font-size="86" letter-spacing="2">B<tspan class="amp" font-size="100">&amp;</tspan>F</text>
+</svg>
