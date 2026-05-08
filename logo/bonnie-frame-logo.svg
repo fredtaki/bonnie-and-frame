@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Bonnie & Frame">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&amp;display=swap');
+      .bf-line {
+        font-family: 'Playfair Display', 'Didot', 'Bodoni 72', 'Times New Roman', serif;
+        font-weight: 500;
+        fill: #1A1410;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+  <text x="300" y="148" text-anchor="middle" class="bf-line" font-size="128">BONNIE&amp;</text>
+  <text x="300" y="290" text-anchor="middle" class="bf-line" font-size="128">FRAME</text>
+</svg>
